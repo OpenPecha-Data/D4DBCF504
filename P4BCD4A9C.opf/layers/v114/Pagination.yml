@@ -1,0 +1,173 @@
+id: d21ebddb57c6487fb6d64406a684fd57
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  b02c35bbfc814775a48bd39c563c580a:
+    imgnum: 987
+    reference: ''
+    span:
+      start: 0
+      end: 745
+  415f5e2d1613417d86d88a215b050cfc:
+    imgnum: 988
+    reference: ''
+    span:
+      start: 748
+      end: 2107
+  08dc8003ccd44a2f929f5ccca230b86d:
+    imgnum: 989
+    reference: ''
+    span:
+      start: 2110
+      end: 3437
+  14b71213d49c4678a059d2fdd7e4ef20:
+    imgnum: 990
+    reference: ''
+    span:
+      start: 3440
+      end: 4793
+  29bb28de38ed47ad9b0f3c4379fbaaf0:
+    imgnum: 991
+    reference: ''
+    span:
+      start: 4796
+      end: 6146
+  175d219565b442289ee1c53f6c69bb72:
+    imgnum: 992
+    reference: ''
+    span:
+      start: 6149
+      end: 7511
+  41f4f7883cd8403186a1cf391e225c0d:
+    imgnum: 993
+    reference: ''
+    span:
+      start: 7514
+      end: 8761
+  cdb2826d90d5489d830c3f341e580578:
+    imgnum: 994
+    reference: ''
+    span:
+      start: 8764
+      end: 10082
+  2e26b320fd4e48c28a6c2a3c09ce0041:
+    imgnum: 995
+    reference: ''
+    span:
+      start: 10085
+      end: 11400
+  fe36a758ac674e37a15762e5a92cff64:
+    imgnum: 996
+    reference: ''
+    span:
+      start: 11403
+      end: 12717
+  65b7bc0a90e5457b8c2cb9c7a0ac004e:
+    imgnum: 997
+    reference: ''
+    span:
+      start: 12720
+      end: 14137
+  3b2f6d2248b84ad3bd8fbbdfe1c9abd8:
+    imgnum: 998
+    reference: ''
+    span:
+      start: 14140
+      end: 15461
+  86656babb6ae41178ca3614cc324f1f3:
+    imgnum: 999
+    reference: ''
+    span:
+      start: 15464
+      end: 16856
+  41b1fd46bd114df38b9408362f7989ef:
+    imgnum: 1000
+    reference: ''
+    span:
+      start: 16859
+      end: 18169
+  bce44c1aa74545df94e9ce93da3f9c5f:
+    imgnum: 1001
+    reference: ''
+    span:
+      start: 18172
+      end: 19473
+  a55d1c2d0f4641fa862edb936ee38be7:
+    imgnum: 1002
+    reference: ''
+    span:
+      start: 19476
+      end: 20732
+  794e102f39b446f9ab9a2f402b386283:
+    imgnum: 1003
+    reference: ''
+    span:
+      start: 20735
+      end: 21936
+  823713c2f2414c97a6dd53d8bf634c6f:
+    imgnum: 1004
+    reference: ''
+    span:
+      start: 21939
+      end: 23148
+  f650ca5e842d4758bc5f48e0a784ea9c:
+    imgnum: 1005
+    reference: ''
+    span:
+      start: 23151
+      end: 24423
+  a13d84516a7548f3981f1bf63fdd8c99:
+    imgnum: 1006
+    reference: ''
+    span:
+      start: 24426
+      end: 25818
+  19f20cca58bc43afa0651a5acfa3ab6e:
+    imgnum: 1007
+    reference: ''
+    span:
+      start: 25821
+      end: 27213
+  d53c91c0b3f943488b7c15c633da905d:
+    imgnum: 1008
+    reference: ''
+    span:
+      start: 27216
+      end: 28393
+  d4736d9e78ef4ba0b37cbbd0237d16e1:
+    imgnum: 1009
+    reference: ''
+    span:
+      start: 28396
+      end: 29609
+  c6cf432319e147ceaffc736fdd59d554:
+    imgnum: 1010
+    reference: ''
+    span:
+      start: 29612
+      end: 30008
+local_ids:
+  b02c35bbfc814775a48bd39c563c580a: 200000
+  415f5e2d1613417d86d88a215b050cfc: 200001
+  08dc8003ccd44a2f929f5ccca230b86d: 200002
+  14b71213d49c4678a059d2fdd7e4ef20: 200003
+  29bb28de38ed47ad9b0f3c4379fbaaf0: 200004
+  175d219565b442289ee1c53f6c69bb72: 200005
+  41f4f7883cd8403186a1cf391e225c0d: 200006
+  cdb2826d90d5489d830c3f341e580578: 200007
+  2e26b320fd4e48c28a6c2a3c09ce0041: 200008
+  fe36a758ac674e37a15762e5a92cff64: 200009
+  65b7bc0a90e5457b8c2cb9c7a0ac004e: 200010
+  3b2f6d2248b84ad3bd8fbbdfe1c9abd8: 200011
+  86656babb6ae41178ca3614cc324f1f3: 200012
+  41b1fd46bd114df38b9408362f7989ef: 200013
+  bce44c1aa74545df94e9ce93da3f9c5f: 200014
+  a55d1c2d0f4641fa862edb936ee38be7: 200015
+  794e102f39b446f9ab9a2f402b386283: 200016
+  823713c2f2414c97a6dd53d8bf634c6f: 200017
+  f650ca5e842d4758bc5f48e0a784ea9c: 200018
+  a13d84516a7548f3981f1bf63fdd8c99: 200019
+  19f20cca58bc43afa0651a5acfa3ab6e: 200020
+  d53c91c0b3f943488b7c15c633da905d: 200021
+  d4736d9e78ef4ba0b37cbbd0237d16e1: 200022
+  c6cf432319e147ceaffc736fdd59d554: 200023
